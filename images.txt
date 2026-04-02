@@ -1,1 +1,1 @@
-sizx/dm8:latest
+openjdk:8-jdk-alpine
