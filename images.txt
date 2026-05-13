@@ -1,1 +1,1 @@
-eclipse-temurin:8-jre
+apache/kafka:4.2.0
